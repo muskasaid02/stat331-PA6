@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Eli D Muska S Uriel H"
 format: html
 editor: visual
 embed-resources : true
