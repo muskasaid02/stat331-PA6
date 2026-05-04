@@ -18,6 +18,7 @@ When you click the **Render** button a document will be generated that includes 
 ```{r}
 1 + 1
 13 * 13
+12*12
 ```
 
 You can add options to executable code like this
